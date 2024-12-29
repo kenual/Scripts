@@ -1,4 +1,4 @@
-# Home Brew
+# Homebrew
 
 ```zsh
 ken@Kenneths-Air ~ % brew list
@@ -25,7 +25,7 @@ handbrake		protonvpn		zoom
 # Applications
 
 ```
-ken@Kenneths-Air ~ % cd /Applications 
+ken@Kenneths-Air ~ % cd /Applications
 ken@Kenneths-Air /Applications % ls
 Accelerate.app
 Ad Block One.app
